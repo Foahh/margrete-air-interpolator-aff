@@ -1,0 +1,15 @@
+{
+  "name": "mg-air-interpolator-aff",
+  "version": "1.0",
+  "dependencies": [
+    "catch2",
+    "wtl",
+    {
+      "name": "imgui",
+      "features": [
+        "win32-binding",
+        "dx11-binding"
+      ]
+    }
+  ]
+}

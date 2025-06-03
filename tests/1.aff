@@ -1,0 +1,7 @@
+AudioOffset:0
+-
+timing(0,100.00,4.00);
+arc(0,300,0.00,1.00,b,1.00,0.00,0,none,false);
+arc(300,600,0.00,1.00,sisi,1.00,0.00,0,none,false);
+arc(600,900,0.00,1.00,soso,1.00,0.00,0,none,false);
+arc(1200,1500,1.00,-0.25,sisi,0.00,0.00,0,none,false);

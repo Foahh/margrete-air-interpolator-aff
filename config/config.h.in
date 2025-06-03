@@ -1,0 +1,22 @@
+#pragma once
+#define JA_TITLE "@JA_TITLE@"
+#define JA_DESC "@JA_DESC@"
+
+#define EN_TITLE "@EN_TITLE@"
+#define EN_DESC "@EN_DESC@"
+
+#define ZH_CN_TITLE "@ZH_CN_TITLE@"
+#define ZH_CN_DESC "@ZH_CN_DESC@"
+
+#define DEVELOPER "@DEVELOPER@"
+
+#define W_JA_TITLE L"@JA_TITLE@"
+#define W_JA_DESC L"@JA_DESC@"
+
+#define W_EN_TITLE L"@EN_TITLE@"
+#define W_EN_DESC L"@EN_DESC@"
+
+#define W_ZH_CN_TITLE L"@ZH_CN_TITLE@"
+#define W_ZH_CN_DESC L"@ZH_CN_DESC@"
+
+#define W_DEVELOPER L"@DEVELOPER@"

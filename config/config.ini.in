@@ -1,0 +1,14 @@
+[ja_JP]
+title = @JA_TITLE@
+desc = @JA_DESC@
+dev = @DEVELOPER@
+
+[en_US]
+title = @EN_TITLE@
+desc = @EN_DESC@
+dev = @DEVELOPER@
+
+[zh_CN]
+title = @ZH_CN_TITLE@
+desc = @ZH_CN_DESC@
+dev = @DEVELOPER@
